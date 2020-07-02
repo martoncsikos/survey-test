@@ -1,5 +1,5 @@
 # To add script as the site owner:
-<script src="https://martoncsikos.github.io/survey-test/survey.js"></script>
+`<script src="https://martoncsikos.github.io/survey-test/survey.js"></script>`
 
 # To test on live sites:
 Go to 444.hu on google chrome.
