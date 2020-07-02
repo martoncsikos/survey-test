@@ -10,7 +10,7 @@ const styles = `
   top: 20px;
   right: 00px;
   width: 800px;
-  z-index: 10;
+  z-index: 9999;
   transform: translateX(100%);
 }
 
@@ -23,18 +23,20 @@ const styles = `
   box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
   background-color: #FFF;
   margin-right: 20px;
+  z-index: 9999;
 }
 
 .survey-question {
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 9999;
 }
-
 
 .survey-answers {
   display: flex;
   flex-direction: row;
+  z-index: 9999;
 }
 
 .answer-button {
@@ -43,6 +45,7 @@ const styles = `
   border: 1px solid #ccc;
   cursor: pointer;
   background-color: #EEE;
+  z-index: 9999;
 }
 
 .answer-button:hover {
