@@ -7,7 +7,7 @@ const styles = `
 
 #survey-container {
   position: fixed;
-  top: 20px;
+  top: 140px;
   right: 00px;
   width: 800px;
   z-index: 9999;
