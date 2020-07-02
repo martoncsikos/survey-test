@@ -116,4 +116,4 @@ function submitSurvey(answer) {
   hideSurvey();
 }
 
-setTimeout(showSurvey, 1000);
+setTimeout(showSurvey, 4000);
