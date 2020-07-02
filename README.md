@@ -5,7 +5,7 @@
 Go to 444.hu on google chrome.
 [Open developer console](https://balsamiq.com/support/faqs/browserconsole)
 
-Paste this, hit enter, wait 4 seconds:
+Paste this, hit enter, close the console, wait 4 seconds:
 
 ```
 (function() {
