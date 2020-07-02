@@ -4,7 +4,8 @@
 # To test on live sites:
 Go to 444.hu on google chrome.
 [Open developer console](https://balsamiq.com/support/faqs/browserconsole)
-Paste this and hit enter:
+
+Paste this, hit enter, wait 4 seconds:
 
 ```
 (function() {
