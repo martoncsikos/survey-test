@@ -11,7 +11,7 @@ const styles = `
   right: 00px;
   width: 800px;
   z-index: 10;
-  transform: translateX(100%)
+  transform: translateX(100%);
 }
 
 .survey-content {
@@ -21,6 +21,7 @@ const styles = `
   padding: 10px 30px;
   border: 1px solid #ccc;
   box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+  backround-color: #FFF;
   margin-right: 20px;
 }
 
